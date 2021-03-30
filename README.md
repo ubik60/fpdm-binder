@@ -7,7 +7,7 @@ kernel för kursen Funktionell programmering och diskret matematik.
 
 Starta vanlig notebook med följande länk
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubik60/fpdm-binder.git/main/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubik60/fpdm-binder.git/HEAD)
 
 
 Starta lab notebook med följande länk
